@@ -1,14 +1,5 @@
 
-<br>
 
-![cert](google-it-support.jpg)
-
-
-* This repository written for reference and self-documentation purpose
-* Feel free to contribute!
-
-
-<br>
 
 ### About this Professional Certificate
 
